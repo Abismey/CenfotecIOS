@@ -1,0 +1,14 @@
+Tarea #4
+Desarrollo de Aplicaciones para IOS
+CENFOTEC
+
+
+Propuesta Proyecto Final
+Consiste en el desarrollo de una aplicación para IOS para un Centro de Belleza y Estética: “Abis Centro de Belleza y Estética”, que le permita a los usuarios reservar su cita desde la aplicación.
+La APP cuenta con un catálogo de servicios que ofrece el Centro de belleza y estética, así como una galería de fotos que le permita al usuario anticipadamente elegir el procedimiento que desee, un corte de cabello, un peinado, el diseño de manicuras y pedicuras, tratamientos faciales, tratamientos capilares, masajes, maquillaje según ocasión, tintes, depilaciones, encrespado de cejas, entre otros.
+Así mismo, el usuario encontrará una sección de recomendaciones de la salud del cabello, piel, uñas, el rostro entre otros y el cuidado personal.
+Además, le permitirá al usuario comunicarse mediante un chat con los asesores de la belleza, haciendo consultas en cuanto a costos de los procedimientos, recomendaciones del uso de algún producto, etc.
+Otra sección de suma importancia es el apartado de descuentos y promociones del mes. Y un mapa que geo-localiza el lugar donde se encuentra ubicado el Centro de Belleza y Estética
+
+	Elaborado por: Abismey Tatiana Córdoba Valverde
+
